@@ -1,0 +1,6 @@
+1.Acceso y Uso Libre: El contenido de este repositorio debe ser libre, gratuito y accesible para todo el mundo, sin importar su lugar de origen o situación económica. 
+Creo firmemente que el conocimiento debe ser accesible para todos.
+
+2.Uso Comercial: Los write-ups contenidos en este repositorio pueden ser compartidos libremente sin ningún tipo de restricción. Además, no podrán ser utilizados 
+con fines comerciales bajo ninguna circunstancia. Ninguna persona o entidad puede recibir ningún tipo de compensación económica por el uso, distribución 
+o modificación de estos trabajos.
